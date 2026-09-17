@@ -7,7 +7,7 @@ of MCP v1/v2, OAuth, and interactive MCP Apps.
 2. [MCP v1 and v2 samples](#2-mcp-v1-and-v2-samples) — browser tools and local OAuth flows.
 3. [MCP Apps samples](#3-mcp-apps-samples) — interactive tool-response UIs built with Prefab.
 
-## 1. Original browsing application
+## 1. Web browsing MCP application
 
 A local browsing application with a Tkinter chat UI and an MCP-to-LLM bridge.
 
